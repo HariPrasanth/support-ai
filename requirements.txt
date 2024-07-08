@@ -1,0 +1,9 @@
+streamlit
+pymongo
+transformers
+sentence-transformers
+faiss-cpu
+requests
+wikipedia-api
+numpy
+joblib
